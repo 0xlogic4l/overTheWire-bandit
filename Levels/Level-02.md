@@ -1,4 +1,4 @@
- # Bandit Level 1 → Level 02
+ # Bandit Level 1 → Level 03
 
 > **Date:** 2026-06-29
 
